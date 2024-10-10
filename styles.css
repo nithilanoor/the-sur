@@ -19,3 +19,6 @@
     font-style: italic;
     font-family: cursive;
 }
+#main{
+  background-image: url('../assets/bg.jpeg');
+}
